@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SA Motion Studio</title>
+<style>
+body{background:#080d1b;color:#fff;font-family:Arial,sans-serif;display:grid;place-items:center;min-height:100vh;margin:0;text-align:center}
+p{color:#9baac5}
+</style>
+</head>
+<body>
+<div>
+<h2>SA Motion Studio</h2>
+<p id="status">جاري الاتصال بالاستوديو...</p>
+</div>
+<script>
+(async()=>{
+ const status=document.getElementById("status");
+ try{
+  const response=await fetch("./link.json?t="+Date.now(),{cache:"no-store"});
+  if(!response.ok) throw new Error();
+  const data=await response.json();
+  const target=new URL(data.url);
+  if(target.protocol!=="https:" || !target.hostname.endsWith(".trycloudflare.com")) throw new Error();
+  location.replace(target.origin+"/login");
+ }catch(e){
+  status.textContent="تعذر الاتصال حالياً. حاول تحديث الصفحة.";
+ }
+})();
+</script>
+</body>
+</html>
