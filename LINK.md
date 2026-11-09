@@ -2,6 +2,6 @@
 
 الرابط الدائم: **https://9v3.github.io/sif/** (يحوّلك تلقائياً إلى الرابط الحالي)
 
-الرابط الحالي المباشر: https://been-checklist-citizenship-facility.trycloudflare.com
+الرابط الحالي المباشر: https://lawsuit-circulation-exact-bookstore.trycloudflare.com
 
-آخر تحديث: 2026-11-08 22:12 UTC — تشغيل رقم 42528971415
+آخر تحديث: 2026-11-09 03:33 UTC — تشغيل رقم 42556892218
