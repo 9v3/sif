@@ -2,6 +2,6 @@
 
 الرابط الدائم: **https://9v3.github.io/sif/** (يحوّلك تلقائياً إلى الرابط الحالي)
 
-الرابط الحالي المباشر: https://reasonably-starter-teachers-seemed.trycloudflare.com
+الرابط الحالي المباشر: https://nurse-barbara-ride-shed.trycloudflare.com
 
-آخر تحديث: 2026-11-10 16:58 UTC — تشغيل رقم 42859531543
+آخر تحديث: 2026-11-10 22:17 UTC — تشغيل رقم 42912941064
