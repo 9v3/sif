@@ -2,6 +2,6 @@
 
 الرابط الدائم: **https://9v3.github.io/sif/** (يحوّلك تلقائياً إلى الرابط الحالي)
 
-الرابط الحالي المباشر: https://suppliers-speeds-anything-tears.trycloudflare.com
+الرابط الحالي المباشر: https://add-asset-bennett-health.trycloudflare.com
 
-آخر تحديث: 2026-11-12 17:02 UTC — تشغيل رقم 43264705202
+آخر تحديث: 2026-11-12 22:22 UTC — تشغيل رقم 43318929956
