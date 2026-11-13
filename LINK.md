@@ -2,6 +2,6 @@
 
 الرابط الدائم: **https://9v3.github.io/sif/** (يحوّلك تلقائياً إلى الرابط الحالي)
 
-الرابط الحالي المباشر: https://add-asset-bennett-health.trycloudflare.com
+الرابط الحالي المباشر: https://elections-eye-margin-hampton.trycloudflare.com
 
-آخر تحديث: 2026-11-12 22:22 UTC — تشغيل رقم 43318929956
+آخر تحديث: 2026-11-13 03:42 UTC — تشغيل رقم 43360579926
