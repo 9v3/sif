@@ -2,6 +2,6 @@
 
 الرابط الدائم: **https://9v3.github.io/sif/** (يحوّلك تلقائياً إلى الرابط الحالي)
 
-الرابط الحالي المباشر: https://elections-eye-margin-hampton.trycloudflare.com
+الرابط الحالي المباشر: https://clinton-scientific-perform-toys.trycloudflare.com
 
-آخر تحديث: 2026-11-13 03:42 UTC — تشغيل رقم 43360579926
+آخر تحديث: 2026-11-13 09:02 UTC — تشغيل رقم 43397867079
