@@ -2,6 +2,6 @@
 
 الرابط الدائم: **https://9v3.github.io/sif/** (يحوّلك تلقائياً إلى الرابط الحالي)
 
-الرابط الحالي المباشر: https://crops-via-availability-added.trycloudflare.com
+الرابط الحالي المباشر: https://crop-ant-senators-flights.trycloudflare.com
 
-آخر تحديث: 2026-11-14 22:39 UTC — تشغيل رقم 43649109699
+آخر تحديث: 2026-11-15 04:00 UTC — تشغيل رقم 43674695844
