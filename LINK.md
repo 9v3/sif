@@ -2,6 +2,6 @@
 
 الرابط الدائم: **https://9v3.github.io/sif/** (يحوّلك تلقائياً إلى الرابط الحالي)
 
-الرابط الحالي المباشر: https://manufacture-song-light-bits.trycloudflare.com
+الرابط الحالي المباشر: https://perl-employee-cemetery-ebony.trycloudflare.com
 
-آخر تحديث: 2026-11-18 08:08 UTC — تشغيل رقم 44264188789
+آخر تحديث: 2026-11-18 13:28 UTC — تشغيل رقم 44313878031
