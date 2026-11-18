@@ -2,6 +2,6 @@
 
 الرابط الدائم: **https://9v3.github.io/sif/** (يحوّلك تلقائياً إلى الرابط الحالي)
 
-الرابط الحالي المباشر: https://essential-null-magazines-competing.trycloudflare.com
+الرابط الحالي المباشر: https://ascii-plates-conversation-drugs.trycloudflare.com
 
-آخر تحديث: 2026-11-18 02:47 UTC — تشغيل رقم 44225679682
+آخر تحديث: 2026-11-18 07:56 UTC — تشغيل رقم 44225679682
