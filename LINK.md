@@ -2,6 +2,6 @@
 
 الرابط الدائم: **https://9v3.github.io/sif/** (يحوّلك تلقائياً إلى الرابط الحالي)
 
-الرابط الحالي المباشر: https://perl-employee-cemetery-ebony.trycloudflare.com
+الرابط الحالي المباشر: https://animation-inch-wool-arrive.trycloudflare.com
 
-آخر تحديث: 2026-11-18 13:28 UTC — تشغيل رقم 44313878031
+آخر تحديث: 2026-11-18 19:23 UTC — تشغيل رقم 44377728143
