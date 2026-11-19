@@ -2,6 +2,6 @@
 
 الرابط الدائم: **https://9v3.github.io/sif/** (يحوّلك تلقائياً إلى الرابط الحالي)
 
-الرابط الحالي المباشر: https://artists-adjust-regular-stephen.trycloudflare.com
+الرابط الحالي المباشر: https://priority-reasonably-seafood-animals.trycloudflare.com
 
-آخر تحديث: 2026-11-19 17:15 UTC — تشغيل رقم 44574750570
+آخر تحديث: 2026-11-19 22:34 UTC — تشغيل رقم 44629747675
