@@ -2,6 +2,6 @@
 
 الرابط الدائم: **https://9v3.github.io/sif/** (يحوّلك تلقائياً إلى الرابط الحالي)
 
-الرابط الحالي المباشر: https://garage-nascar-stars-citizens.trycloudflare.com
+الرابط الحالي المباشر: https://geological-antique-hawaii-fixtures.trycloudflare.com
 
-آخر تحديث: 2026-11-20 03:59 UTC — تشغيل رقم 44670783000
+آخر تحديث: 2026-11-20 09:18 UTC — تشغيل رقم 44709050724
