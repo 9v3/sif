@@ -2,6 +2,6 @@
 
 الرابط الدائم: **https://9v3.github.io/sif/** (يحوّلك تلقائياً إلى الرابط الحالي)
 
-الرابط الحالي المباشر: https://news-contacting-python-anything.trycloudflare.com
+الرابط الحالي المباشر: https://appearing-publisher-jonathan-wearing.trycloudflare.com
 
-آخر تحديث: 2026-11-22 14:25 UTC — تشغيل رقم 45031955820
+آخر تحديث: 2026-11-22 19:43 UTC — تشغيل رقم 45061843803
