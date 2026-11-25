@@ -2,6 +2,6 @@
 
 الرابط الدائم: **https://9v3.github.io/sif/** (يحوّلك تلقائياً إلى الرابط الحالي)
 
-الرابط الحالي المباشر: https://creates-holder-cultures-quad.trycloudflare.com
+الرابط الحالي المباشر: https://drum-charger-ticket-introduced.trycloudflare.com
 
-آخر تحديث: 2026-11-25 02:16 UTC — تشغيل رقم 45531616187
+آخر تحديث: 2026-11-25 07:37 UTC — تشغيل رقم 45569382574
