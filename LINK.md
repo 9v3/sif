@@ -2,6 +2,6 @@
 
 الرابط الدائم: **https://9v3.github.io/sif/** (يحوّلك تلقائياً إلى الرابط الحالي)
 
-الرابط الحالي المباشر: https://municipal-attribute-bonus-daughters.trycloudflare.com
+الرابط الحالي المباشر: https://exercise-egg-charlie-where.trycloudflare.com
 
-آخر تحديث: 2026-11-26 22:55 UTC — تشغيل رقم 45907682979
+آخر تحديث: 2026-11-27 04:22 UTC — تشغيل رقم 45938812584
