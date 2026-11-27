@@ -2,6 +2,6 @@
 
 الرابط الدائم: **https://9v3.github.io/sif/** (يحوّلك تلقائياً إلى الرابط الحالي)
 
-الرابط الحالي المباشر: https://exercise-egg-charlie-where.trycloudflare.com
+الرابط الحالي المباشر: https://corn-accent-takes-spec.trycloudflare.com
 
-آخر تحديث: 2026-11-27 04:22 UTC — تشغيل رقم 45938812584
+آخر تحديث: 2026-11-27 09:49 UTC — تشغيل رقم 45976745988
